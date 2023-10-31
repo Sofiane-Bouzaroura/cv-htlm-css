@@ -1,0 +1,62 @@
+
+.profile img {
+    margin-left: 20px;
+    display: inline;
+}
+
+.profile {
+    display: flex;
+}
+
+.profile {
+    background-color: red; 
+    color: black; 
+    padding: 10px; 
+}
+
+.h2 {
+    color: black;
+}
+
+p.nomdeclass  {
+    background-color: greenyellow;
+}
+
+.info {
+    background-color: blueviolet;
+}
+
+div.nom {
+    background-color: yellow;
+}
+
+div.class {
+    background-color: violet;
+}
+
+div.room {
+    background-color: brown;
+}
+
+.centrer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    margin-left: 50lvh;
+    margin-right: auto;
+}
+
+.left {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    height: 20vh;
+    margin-left: auto; 
+    margin-right: 50px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
